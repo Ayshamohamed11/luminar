@@ -1,0 +1,64 @@
+.c1{
+ background-color: white;
+ color:  rgb(85, 17, 116) ;
+}
+.m1:hover{
+    border: 1px white solid;
+  box-shadow: 5px 10px 18px rgb(44, 41, 41);
+  transform: scale(1.01);
+}
+.c1:hover{
+    background-color:  rgb(85, 17, 116);
+    color: white;
+}
+.t1{
+    background-color:  rgb(85, 17, 116);
+}
+.t1:hover{
+    background-color: white;
+    color:  rgb(85, 17, 116);
+}
+.x1{
+    color: white;
+    text-decoration: none;
+}
+.purple{
+    color:  rgb(85, 17, 116);
+}
+.v1{
+    text-decoration: none;
+}
+.a1{
+    margin-right: 0%;
+}
+.ww1{
+    position: fixed;
+    left: 20px;
+    bottom: 11px;
+    height: 60px;
+    width: 60px;
+    background-color: rgb(72, 156, 72);
+    border-radius: 24px;
+    padding-bottom: 54px;
+    padding-left: 9px;
+    padding-top: 6px;
+    z-index: 10;
+}
+.pp1{
+    position: fixed;
+    right: 17px;
+    bottom: 13px;
+    height: 42px;
+    width: 42px;
+    background-color: black;
+    z-index: 10;
+    text-align: center;
+    padding-top: 5px;
+}
+.aa1{
+    color: white;
+    text-decoration: none;
+}
+.mq1{
+    margin-top: 1px;
+}
